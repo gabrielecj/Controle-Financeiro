@@ -1,4 +1,4 @@
-# 01-dashboard-financeiro
+# Controle-financeiro
 
 Projeto autoral de portfólio UI/UX + full stack.
 
